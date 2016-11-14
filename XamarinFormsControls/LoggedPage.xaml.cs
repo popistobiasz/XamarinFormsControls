@@ -17,7 +17,7 @@ namespace XamarinFormsControls
 				{
 					new Label
 					{
-						Text = "Adam zaraz Ci pomoge",
+						Text = "QOEIQPOWEIQWOPE",
 						Margin = new Thickness(0,50,0,0),
 						HorizontalOptions = LayoutOptions.Center
 					},
